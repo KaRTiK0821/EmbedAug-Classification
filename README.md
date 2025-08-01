@@ -18,11 +18,11 @@ This project classifies infant cries into categories like **asphyxia, deaf, hung
 ## 🗂 Dataset
 Dataset should be structured as:
 data/
-├── asphyxia/
-├── deaf/
-├── hunger/
-├── normal/
-└── pain/
+- asphyxia/
+- deaf/
+- hunger/
+- normal/
+- pain/
 
 ---
 
